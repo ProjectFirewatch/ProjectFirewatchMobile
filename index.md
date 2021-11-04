@@ -2,6 +2,10 @@
 
 ---
 
+# Mobile Is not yet supported. You have been brought to an older version of Project Firewatch.
+
+---
+
 # What is Firewatch?
 
 ---
